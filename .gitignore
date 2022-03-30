@@ -7,6 +7,10 @@
 
 # testing
 /coverage
+.gitignore
+package-lock.json
+README.md
+
 
 # production
 /build
